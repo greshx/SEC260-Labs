@@ -1,3 +1,3 @@
-Welcome to my SYS265-Tech-Journals wiki!
+Welcome to my SEC260-Labs wiki!
 
-This repository covers my tech Journals created for my SYS265 course at Champlain college.
+This repository covers the labs completed for my SEC260 course at Champlain college.
